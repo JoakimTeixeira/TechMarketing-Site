@@ -13,3 +13,7 @@ Marketing site for an imaginary product.
 ## Project dependencies
 
 * [Google Fonts](https://fonts.google.com)
+
+## Developer dependencies
+
+* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) extension for Visual Studio Code.
