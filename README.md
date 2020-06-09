@@ -10,10 +10,10 @@ Marketing site for an imaginary product.
 * Implemented responsiveness with CSS media-queries and SASS variables, functions and mixins.
 * Shaped design with CSS clip-path property.
 
-## Project dependencies
+## Project Dependencies
 
 * [Google Fonts](https://fonts.google.com)
 
-## Developer dependencies
+## Developer Dependencies
 
 * [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) extension for Visual Studio Code.
