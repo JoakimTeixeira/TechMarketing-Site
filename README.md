@@ -6,14 +6,14 @@ Marketing site for an imaginary product.
 
 ## What I've learned
 
-* Developed mobile-first site using SASS and CSS Grid.
-* Implemented responsiveness with CSS media-queries and SASS variables, functions and mixins.
-* Shaped design with CSS clip-path property.
+- Developed mobile-first site using SASS and CSS Grid
+- Implemented responsiveness with CSS media-queries and SASS variables, functions and mixins
+- Shaped design with CSS clip-path property
 
 ## Project Dependencies
 
-* [Google Fonts](https://fonts.google.com)
+- [Google Fonts](https://fonts.google.com)
 
 ## Developer Dependencies
 
-* [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) extension for Visual Studio Code.
+- [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) extension for Visual Studio Code
